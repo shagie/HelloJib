@@ -1,0 +1,5 @@
+services:
+  hellojib:
+    image: shagie/hellojib
+    ports:
+      - "8080:8080"
